@@ -1,0 +1,70 @@
+body {
+  font-family: Arial;
+  margin: 0
+}
+
+#header {
+  background: #222;
+  padding: 20px;
+}
+
+#menu a {
+  color: #333;
+  text-decoration: none;
+  margin-right: 5px;
+  font-size: 11px;
+}
+
+.banner {
+  background: #cccccc;
+  padding: 50px;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 18px;
+}
+
+#sobre {
+  padding: 30px;
+  width: 1200px;
+}
+
+#cursos {
+  padding: 30px;
+}
+
+#cursos li {
+  list-style: none;
+  font-size: 12px;
+}
+
+#galeria img {
+  width: 300px;
+  height: 300px;
+  margin: 5px;
+}
+
+#contato {
+  padding: 30px;
+}
+
+#contato input {
+  width: 100px;
+}
+
+#footer {
+  background: #eeeeee;
+  padding: 10px;
+}
+
+.destaque {
+  color: red !important;
+
+.aviso {
+  display: none;
+}
+
+a:hover {
+  color: yellow;
+}
